@@ -1,5 +1,15 @@
 ### Hi there 👋
-## 🌱 I’m currently learning Android
+#### 🌱 I’m currently learning Android
+
+<div align="center">
+  <a href="https://github.com/LearnIndiaApp/LearnIndiaApp">
+    <img src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  
+## About The Project
+[![Product Name Screen Shot][product-screenshot]](https://www.pakainfo.com/wp-content/uploads/2021/09/image-url-for-testing.jpg)
+<a name="readme-top"></a>
+
 <!--
 **LearnIndiaApp/LearnIndiaApp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
