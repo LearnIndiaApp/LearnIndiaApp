@@ -1,25 +1,39 @@
-### Hi there 👋
-#### 🌱 I’m currently learning Android
+# Learn India App
 
-<div align="center">
-  <a href="https://github.com/LearnIndiaApp/LearnIndiaApp">
-    <img src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png" alt="Logo" width="20" height="20">
-  </a>
-  
-### About The Project
-  LearnIndia Video Conferencing App
+Are you looking for a reliable and user-friendly video conferencing app to connect with your friends, colleagues, or clients?
 
-<!--
-**LearnIndiaApp/LearnIndiaApp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Look no further than the LEARN INDIA VIDEO CONFERENCING APP! Our app offers a seamless and secure way to connect with others from anywhere in the world.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Features
+
+- Light Weight Application
+- Simple UI & User Friendly Design
+- Uses Real-Times Database
+- Phone and Email Verification
+- Join and Share Meeting Code
+
+
+## FAQ
+
+#### 1. Is there any time limit ?
+
+There is no Time Limitation in Our Application.
+
+#### 2. Can we Share Screen in Meeting.
+
+Yes, Application has Screen Sharing Feature.
+
+#### 3. Can we Live Stream on Youtube ?
+Yes, You can go Live on Youtube during Meeting.
+
+
+## Authors
+
+- [@Uzma Memon]()
+- [@Nikhil Jaiswal]()
+
+## Support
+
+For support, email learnindiaapp@gmail.com
