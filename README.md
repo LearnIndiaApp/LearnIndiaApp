@@ -15,6 +15,13 @@ Look no further than the LEARN INDIA VIDEO CONFERENCING APP! Our app offers a se
 - Join and Share Meeting Code
 
 
+## Tech Stack
+
+**Frontend:** XML
+
+**Language**: Java
+
+**Backend:** Firebase RealTime Database & Firebase Storage
 ## FAQ
 
 #### 1. Is there any time limit ?
@@ -33,6 +40,8 @@ Yes, You can go Live on Youtube during Meeting.
 
 - [@Uzma Memon]()
 - [@Nikhil Jaiswal]()
+
+
 
 ## Support
 
